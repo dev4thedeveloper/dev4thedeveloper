@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @dev4thedeveloper
-- 👀 I’m interested in Full-Stack WebDev
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on MERN Projects
-- 📫 How to reach me @mehta.divyansh@yahoo.com
+### Hi there 👋
 
-<!---
-dev4thedeveloper/dev4thedeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on Front-End Development
+- 🤔 I’m looking for help with Front-End Developement
+- 💬 Ask me about Full Stack
+- 📫 How to reach me: mehta.divyansh@yahoo.com
+- 😄 Pronouns: Dev
+- ⚡ Fun fact: Januray is our zeroth(0) Month ~ JavaScript
+
