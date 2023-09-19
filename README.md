@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Divyansh
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning React.js
